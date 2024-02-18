@@ -1,14 +1,14 @@
-Go Language Challenge
+SAS Coding Challenge
 
 Versions used:
-    - Go 1.22.0
-    - VSCode 1.86.1
+- Go 1.22.0
+- VSCode 1.86.1
 
 
 
-There are two test data sets.
-    - One with comments for tracking what date-times are valid, invalid, and duplicate
-    - And one with the raw data that is read into the program (no comments) 
+There are two (2) test data sets.
+- One with comments for tracking what date-times are valid, invalid, and duplicate
+- And one with the raw data that is read into the program (no comments) 
 
 The valid date-times are spit out into a file that will be named "Output.txt"
 
